@@ -1,0 +1,46 @@
+.main{
+  background-color: navajowhite;
+  color: darkblue;
+  padding: 10px;
+  text-align: center;
+  
+  font-size: 30px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  border: solid 2px;
+  border-color: darkred;
+  border-radius: 50px;
+  -webkit-text-stroke-color: red;
+  -webkit-text-stroke-width: 1px;
+  
+  
+  
+}
+.basic{
+  
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  
+  border: solid 3px;
+  border-color: darkred;
+  border-radius: 10px;
+  
+ background-color: whitesmoke;
+ color: blue;
+ font-size: 20px;
+ font-weight: bold;
+
+  
+  
+  
+}
+body{
+  
+ background-color: steelblue;
+  
+  
+}
